@@ -1,4 +1,4 @@
-station_name,type,lat,lng
+station_name,type,latitude,longitude
 Jurong East,MRT,1.333207,103.742308
 Bukit Batok,MRT,1.349069,103.749596
 Bukit Gombak,MRT,1.359043,103.751863
